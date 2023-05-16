@@ -1,0 +1,59 @@
+section.section1 {
+    background-image: url(Images/BG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#navbar {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#navbarScroll ul li a {
+    font-size: 2.6vb;
+}
+
+#login {
+    font-size: 2.4vb;
+}
+
+b.h1-1 {
+    color: #575E5F;
+}
+
+b.h1-2 {
+    color: #fff;
+}
+
+div.col-lg-6 {
+    margin-left: 15%;
+    margin-right: 40%;
+}
+
+div.col-lg-6 h1{
+    font-size: 7.6vb;
+}
+
+div.col-lg-6 p {
+    font-size: 4vb;
+    font-style: italic;
+    background-color: rgb(255, 255, 255, 0.22);
+}
+
+#learn-more-btn {
+    font-size: 2.6vb;
+}
+
+div.container {
+    margin-top: 5%;
+}
+
+section.section2 {
+    min-height: 85vh;
+}
+
+#col li a {
+    color: #fff;
+}
